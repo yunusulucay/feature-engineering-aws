@@ -1,12 +1,12 @@
-# feature-engineering-aws
+# Feature Engineering using AWS Services
 
 An end-to-end feature engineering process on AWS. SageMaker, S3 Bucket, Lambda and ECR services used.
 
-# Work Flow
+## Work Flow
 
 ![eda-schema](https://user-images.githubusercontent.com/42489236/152315672-89ebbdf4-9703-4cc3-9789-b846983bd0d2.jpg)
 
-# Steps
+## Steps
 
 1- Some feature engineering processes implemented on SageMaker notebook.(In notebook)
 
